@@ -1,0 +1,30 @@
+[submodule "DO328-apps"]
+	path = DO328-apps
+	url = https://github.com/RedHatTraining/DO328-apps
+[submodule "DO378-apps"]
+	path = DO378-apps
+	url = https://github.com/RedHatTraining/DO378-apps
+[submodule "DO288-apps"]
+	path = DO288-apps
+	url = https://github.com/RedHatTraining/DO288-apps
+[submodule "DO180-apps"]
+	path = DO180-apps
+	url = https://github.com/RedHatTraining/DO180-apps
+[submodule "DO400-apps"]
+	path = DO400-apps
+	url = https://github.com/RedHatTraining/DO400-apps
+[submodule "DO400-apps-external"]
+	path = DO400-apps-external
+	url = https://github.com/RedHatTraining/DO400-apps-external
+[submodule "AD141-apps"]
+	path = AD141-apps
+	url = https://github.com/RedHatTraining/AD141-apps
+[submodule "DO480-apps"]
+	path = DO480-apps
+	url = https://github.com/RedHatTraining/DO480-apps
+[submodule "AD221-apps"]
+	path = AD221-apps
+	url = https://github.com/RedHatTraining/AD221-apps
+[submodule "AD221-apps-offline"]
+	path = AD221-apps-offline
+	url = https://github.com/RedHatTraining/AD221-apps-offline
